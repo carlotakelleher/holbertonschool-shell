@@ -1,0 +1,1 @@
+- 0-iam_betty: Este script cambia el usuario actual a 'betty' utilizando el comando 'su'.
